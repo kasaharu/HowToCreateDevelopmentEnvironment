@@ -23,7 +23,7 @@
 
 ## PostgreSQL の設定
 
-* [PostgreSQL の設定](setting_guest_os.md)
+* [PostgreSQL の設定](setting_psql.md)
 
 ## Rails の開発環境構築
 
